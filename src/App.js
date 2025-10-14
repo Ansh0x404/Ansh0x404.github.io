@@ -82,7 +82,7 @@ function App() {
             Hi, I'm <span className="highlight">Ansh Patel</span>
           </h1>
           <p className="hero-subtitle">Computer programmer</p>
-          <p className="hero-description">I design and develop efficient, functional, and user-friendly software solutions.</p>
+          <p className="hero-description">I design and develop efficient software solutions.</p>
           <div className="hero-buttons">
             <a href="#projects" className="btn btn-primary">
               View My Work
