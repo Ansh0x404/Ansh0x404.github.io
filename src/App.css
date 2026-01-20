@@ -86,14 +86,14 @@ body {
 
 /* Hero Section */
 .hero {
-  min-height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  color: white;
-  text-align: center;
-  padding: 2rem;
+    align-items: center;
+    background: linear-gradient(135deg, #dde1f3, #a8a0e7);
+    color: #1f2937;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 2rem;
+    text-align: center;
 }
 
 .hero-content {
