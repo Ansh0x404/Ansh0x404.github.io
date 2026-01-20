@@ -101,7 +101,6 @@ function App() {
           <div className="about-content">
             <div className="about-text">
               <p>I'm a passionate developer building efficient software solutions & modern web applications. I love turning complex problems into simple solutions.</p>
-              {/* <p>When I'm not coding, you'll find me exploring new technologies, contributing to open-source projects, or sharing knowledge with the developer community.</p> */}
               <p>When I'm not coding, you'll find me exploring new technologies, making some projects or playing cricket.</p>
 
               <div className="education">
